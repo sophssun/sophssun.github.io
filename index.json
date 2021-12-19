@@ -4,21 +4,21 @@
 	"title": "Short Stories",
 	"tags": [],
 	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+	"content": "Chapter 1 Some Chapter title Lorem Ipsum. chapter 1 from _index.md\n"
 },
 {
 	"uri": "http://example.org/",
-	"title": "My New Hugo Site",
+	"title": "",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "Sophie\u0026rsquo;s Test Blog Sub 2 Body of sub 2\nSub 3 Sub 4 "
 },
 {
 	"uri": "http://example.org/short-stories/test/",
 	"title": "Test",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 1 Basics Discover what this Hugo theme is all about and the core concepts behind it.\n"
+	"content": "Chapter 1 Basics Discover what this Hugo theme is all about and the core concepts behind it.\nChapter Basics from test.md\n"
 },
 {
 	"uri": "http://example.org/categories/",
